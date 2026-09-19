@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {"title": "AI 数字人一天剪 100 条带货视频", "summary": "中小商家用开源模型批量生成短视频口播稿, 人力成本降 9 成", "heat": 986432, "source": "fixture"},
+    {"title": "实体店老板靠短视频获客翻身", "summary": "本地生活商家每天 3 条探店视频, 一个月进店客流翻倍", "heat": 845120, "source": "fixture"},
+    {"title": "大模型量化部署上手指南", "summary": "8GB 显存笔记本跑通 7B 模型, Q4 量化损失有多大", "heat": 723451, "source": "fixture"},
+    {"title": "供应链工厂转型的第一步是内容", "summary": "B2B 工厂老板做短视频, 一个月接到 20 个询盘", "heat": 654321, "source": "fixture"},
+    {"title": "Agent 工作流替代重复办公", "summary": "把每周固定报表流程交给 Agent, 误差比人工还低", "heat": 512340, "source": "fixture"},
+    {"title": "TTS 配音已经听不出是机器", "summary": "开源语音合成效果逼近真人, 短视频配音成本归零", "heat": 489211, "source": "fixture"},
+    {"title": "小红书无货源电商新玩法", "summary": "AI 生成图文笔记批量测试爆款选题, 转化率提升 3 倍", "heat": 433390, "source": "fixture"},
+    {"title": "私域获客自动化案例拆解", "summary": "从公域视频到私域转化的全链路 SOP, 关键在钩子设计", "heat": 388221, "source": "fixture"}
+  ]
+}
